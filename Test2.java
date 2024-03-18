@@ -5,10 +5,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class test2 {
+public class Test2 {
 
     @Test
-    public void countWordNordOnNexignPage() {
+    public void testt() {
         System.setProperty("webdriver.chrome.driver", "/Users/alenamelnikova/Desktop/SELENIUM/chromedriver");
 
         WebDriver driver = new ChromeDriver();
